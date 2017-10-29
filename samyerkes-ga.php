@@ -1,7 +1,7 @@
 <?php
 /**
  * @package Sam Yerkes Google Analytics
- * @version 1.6
+ * @version 1.0
  */
 /*
 Plugin Name: Sam Yerkes Google Analytics
